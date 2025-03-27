@@ -1,7 +1,8 @@
 {
-    "articles": ["el", "la", "los", "las", "un", "una", "unos", "unas"],
-    "prepositions": ["a", "ante", "bajo", "con", "contra", "de", "desde", "en", "entre", "hacia", "hasta", "para", "por", "según", "sin", "sobre", "tras"],
-    "pronouns": ["yo", "tú", "él", "ella", "nosotros", "nosotras", "vosotros", "vosotras", "ellos", "ellas", "me", "te", "se", "nos", "os", "lo", "la", "le", "les", "los", "las", "mío", "mía", "míos", "mías", "tuyo", "tuya", "tuyos", "tuyas", "suyo", "suya", "suyos", "suyas", "nuestro", "nuestra", "nuestros", "nuestras"],
-    "conjunctions": ["y", "e", "ni", "pero", "sino", "o", "u", "aunque", "porque", "pues", "que", "como", "si", "cuando", "donde", "mientras"],
-    "punctuation":["\n"," ",".", ",", ":", ";", "!", "?", "…", "-", "—", "_", "(", ")", "[", "]", "{", "}", "\"","'", "‘", "’", "“", "”", "/", "\\", "|", "*", "&", "#", "@", "%", "+", "=", "<", ">", "^", "`", "~", "°"]
+    "artículos": ["el", "la", "los", "las", "un", "una", "unos", "unas"],
+    "preposiciones": ["a", "ante", "bajo", "con", "contra", "de", "desde", "en", "entre", "hacia", "hasta", "para", "por", "según", "sin", "sobre", "tras"],
+    "pronombres": ["yo", "tú", "él", "ella", "nosotros", "nosotras", "vosotros", "vosotras", "ellos", "ellas", "me", "te", "se", "nos", "os", "lo", "la", "le", "les", "los", "las", "mío", "mía", "míos", "mías", "tuyo", "tuya", "tuyos", "tuyas", "suyo", "suya", "suyos", "suyas", "nuestro", "nuestra", "nuestros", "nuestras"],
+    "conjunciones": ["y", "e", "ni", "pero", "sino", "o", "u", "aunque", "porque", "pues", "que", "como", "si", "cuando", "donde", "mientras"],
+    "símbolos":["\n"," ",".", ",", ":", ";", "!", "?", "…", "-", "—", "_", "(", ")", "[", "]", "{", "}", "\"","'", "‘", "’", "“", "”", "/", "\\", "|", "*", "&", "#", "@", "%", "+", "=", "<", ">", "^", "`", "~", "°"],
+    "extras":[]
   }

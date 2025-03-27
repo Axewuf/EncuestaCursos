@@ -1,0 +1,9 @@
+#Requirement packages
+numpy
+pandas[excel]
+matplotlib
+spacy
+Pillow
+wordcloud
+ipywidgets
+ipython
